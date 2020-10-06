@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sha/Desktop/logic/final
+vFSM
+!s110 1577275130
+!i10b 1
+!s100 aY1`Kzz=9^]2dKjn>eg_j2
+IeVZcA8MObkCZ1<V^U2fVM0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1577081381
+8C:/Users/sha/Desktop/logic/final/FSM.V
+FC:/Users/sha/Desktop/logic/final/FSM.V
+L0 8
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1577275130.000000
+!s107 C:/Users/sha/Desktop/logic/final/FSM.V|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sha/Desktop/logic/final/FSM.V|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@f@s@m
+vstimulus
+!s110 1577024641
+!i10b 1
+!s100 ]5?5>XgZm]g9MAAlNTTe60
+I6:^1W]TOo`2m20>W6K^dH2
+R1
+R0
+w1577020876
+8C:/Users/sha/Desktop/logic/final/stimulus.v
+FC:/Users/sha/Desktop/logic/final/stimulus.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1577024641.000000
+!s107 C:/Users/sha/Desktop/logic/final/stimulus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sha/Desktop/logic/final/stimulus.v|
+!s101 -O0
+!i113 1
+R3
