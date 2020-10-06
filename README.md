@@ -19,7 +19,7 @@ ModelSim PE Student Edition 10.4a<br>
 
 ## 規則說明
 
-![]()
+![](https://github.com/sha310139/FSM-Vending-Machine/blob/main/results/flowChart.JPG)
 <br>
 * 開始投錢 （要顯示已投入多少錢）   <br>                      
 	// 初始狀態 (S0)<br>
@@ -47,12 +47,12 @@ ModelSim PE Student Edition 10.4a<br>
 <br>
 
 ## 結果
-![]
+![](https://github.com/sha310139/FSM-Vending-Machine/blob/main/results/result.JPG)<br>
 上圖為投幣後顯示之訊息結果，<br>
-可看到買完<br>
+可看到投幣及買完coffee後找錢數目正確<br>
 <br>
 <br>
-![]
+![](https://github.com/sha310139/FSM-Vending-Machine/blob/main/results/waveform.JPG)
 此圖為產生之waveform<br>
 <br>
 <br>
